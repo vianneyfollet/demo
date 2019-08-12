@@ -39,7 +39,7 @@
             <artifactId>spring-boot-starter-integration</artifactId>
         </dependency>
         <dependency>
-            <groupId>fr.vianney.projects</groupId>
+            <groupId>fr.vianney.follet</groupId>
             <artifactId>demo-front</artifactId>
             <version>${project.version}</version>
             <scope>runtime</scope>
